@@ -4,5 +4,6 @@
   "documentation": "https://github.com/xMrVizzy/Minecraft-Version",
   "dependencies": [],
   "codeowners": ["@xMrVizzy"],
-  "requirements": []
+  "requirements": [],
+  "version": "1.0"
 }
